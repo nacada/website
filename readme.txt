@@ -1,2 +1,1 @@
-Nate. Really. C'mon.
-You can edit straight from github.com, so set it up so you can code more easily at skewl.
+Construction/Staging area for lolhop.com, "a dumb website for smart people".
