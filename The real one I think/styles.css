@@ -1,0 +1,154 @@
+@charset "utf-8";
+/* CSS Document */
+p { text-align: center;
+    font-size: 140%;
+	margin-top:10px;
+    margin-bottom:100px;
+    margin-right:5%;
+    margin-left:5%;
+	
+}
+
+
+h1 { 
+    text-align: center;
+    margin-top:10px;
+    margin-bottom:100px;
+    margin-right:21%;
+    margin-left:21%; 
+}
+
+
+h2 { 
+    text-align: center; 
+    margin-top:10px;
+    margin-bottom:100px;
+    margin-right:20%;
+    margin-left:20%;
+}
+s
+
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content {
+	margin-right:20%;
+    margin-left:20%;
+	margin-top:-10px;
+}
+body {
+	background-image:url('background.png');
+}
+
+
+
+#header-bottom {
+position: relative;
+overflow: visible;
+padding-bottom: 40px;
+padding-left: 6px;
+padding-right: 6px;
+background: #282C2F;
+background: -webkit-linear-gradient(top, #34393D 0%, #282C2F 30%);
+background: -moz-linear-gradient(top, #34393D 0%, #282C2F 30%);
+background: -o-linear-gradient(top, #34393D 0%, #282C2F 30%);
+background: -ms-linear-gradient(top, #34393D 0%, #282C2F 30%);
+border-top: 1px solid #4B5258;
+box-shadow: 0 0 3px 3px rgba(0,0,0,.5);position: relative;
+margin-bottom: 40px;
+}
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+margin: 0;
+padding: 0;
+border: 0;
+font-size: 100%;
+font: inherit;
+vertical-align: baseline;
+text-decoration: none;
+}
+
+body {
+font-family: Arial,sans-serif;
+color: #000;
+font-size: 12px;
+padding-bottom: 6px;
+background-image:url('background.png');
+background-color:#868D8D;
+}
+#header-top {
+overflow: hidden;
+padding-left: 6px;
+padding-right: 6px;
+background: #1C1F21;
+text-align: center;
+}
+#nav a {
+padding: 12px;
+padding-bottom: 12px;
+display: inline-block;
+font-size: 12px;
+color: #eee;
+position: relative;
+z-index: 2;
+}
+
+.home {
+position:absolute;
+right:95%;
+}
+
+.forums {
+	position:absolute;
+	right:59%
+}
+
+.videos {
+	position:absolute;
+	right:54%
+}
+
+.login {
+position:absolute;
+right:7%;
+}
+
+.about {
+	position:absolute;
+	right:49%
+	
+}
+
+.donate {
+	position:absolute;
+    right:39%;
+
+}
+
+.webmail {
+	position:absolute;
+	right:44%
+}
+
+#lolhop {
+	font-size: 250%
+	
+}
+
+#heading {
+	text-align:center;
+}
+
+#header-wrapper {
+	margin-top:-4px;
+}
+
+.footer {
+	position:relative;
+	margin-top: 567px;	
+}
+
+
+
